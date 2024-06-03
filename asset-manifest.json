@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cabin-book-web/static/css/main.1a13f07b.css",
+    "main.js": "/cabin-book-web/static/js/main.d96e4374.js",
+    "static/js/453.55d37cec.chunk.js": "/cabin-book-web/static/js/453.55d37cec.chunk.js",
+    "index.html": "/cabin-book-web/index.html",
+    "main.1a13f07b.css.map": "/cabin-book-web/static/css/main.1a13f07b.css.map",
+    "main.d96e4374.js.map": "/cabin-book-web/static/js/main.d96e4374.js.map",
+    "453.55d37cec.chunk.js.map": "/cabin-book-web/static/js/453.55d37cec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a13f07b.css",
+    "static/js/main.d96e4374.js"
+  ]
+}

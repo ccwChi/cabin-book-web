@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/cabin-book-web/static/css/main.1a13f07b.css",
-    "main.js": "/cabin-book-web/static/js/main.d96e4374.js",
+    "main.css": "/cabin-book-web/static/css/main.05eafdda.css",
+    "main.js": "/cabin-book-web/static/js/main.a704d5fd.js",
+    "static/js/952.d8d0214a.chunk.js": "/cabin-book-web/static/js/952.d8d0214a.chunk.js",
     "static/js/453.55d37cec.chunk.js": "/cabin-book-web/static/js/453.55d37cec.chunk.js",
+    "static/media/GenJyuuGothic-Normal.ttf": "/cabin-book-web/static/media/GenJyuuGothic-Normal.f9efdb146a504cab4c41.ttf",
+    "static/media/cubone.webp": "/cabin-book-web/static/media/cubone.49cb16a3bcaa5aee2b7a.webp",
     "index.html": "/cabin-book-web/index.html",
-    "main.1a13f07b.css.map": "/cabin-book-web/static/css/main.1a13f07b.css.map",
-    "main.d96e4374.js.map": "/cabin-book-web/static/js/main.d96e4374.js.map",
+    "main.05eafdda.css.map": "/cabin-book-web/static/css/main.05eafdda.css.map",
+    "main.a704d5fd.js.map": "/cabin-book-web/static/js/main.a704d5fd.js.map",
+    "952.d8d0214a.chunk.js.map": "/cabin-book-web/static/js/952.d8d0214a.chunk.js.map",
     "453.55d37cec.chunk.js.map": "/cabin-book-web/static/js/453.55d37cec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a13f07b.css",
-    "static/js/main.d96e4374.js"
+    "static/css/main.05eafdda.css",
+    "static/js/main.a704d5fd.js"
   ]
 }

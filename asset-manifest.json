@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cabin-book-web/static/css/main.05eafdda.css",
-    "main.js": "/cabin-book-web/static/js/main.a704d5fd.js",
-    "static/js/952.d8d0214a.chunk.js": "/cabin-book-web/static/js/952.d8d0214a.chunk.js",
-    "static/js/453.55d37cec.chunk.js": "/cabin-book-web/static/js/453.55d37cec.chunk.js",
-    "static/media/GenJyuuGothic-Normal.ttf": "/cabin-book-web/static/media/GenJyuuGothic-Normal.f9efdb146a504cab4c41.ttf",
-    "static/media/cubone.webp": "/cabin-book-web/static/media/cubone.49cb16a3bcaa5aee2b7a.webp",
-    "index.html": "/cabin-book-web/index.html",
-    "main.05eafdda.css.map": "/cabin-book-web/static/css/main.05eafdda.css.map",
-    "main.a704d5fd.js.map": "/cabin-book-web/static/js/main.a704d5fd.js.map",
-    "952.d8d0214a.chunk.js.map": "/cabin-book-web/static/js/952.d8d0214a.chunk.js.map",
-    "453.55d37cec.chunk.js.map": "/cabin-book-web/static/js/453.55d37cec.chunk.js.map"
+    "main.css": "/cabin-book-web/dashboard/static/css/main.21dd8981.css",
+    "main.js": "/cabin-book-web/dashboard/static/js/main.88a22dc7.js",
+    "static/js/952.d8d0214a.chunk.js": "/cabin-book-web/dashboard/static/js/952.d8d0214a.chunk.js",
+    "static/js/453.55d37cec.chunk.js": "/cabin-book-web/dashboard/static/js/453.55d37cec.chunk.js",
+    "static/media/GenJyuuGothic-Normal.ttf": "/cabin-book-web/dashboard/static/media/GenJyuuGothic-Normal.f9efdb146a504cab4c41.ttf",
+    "static/media/logo-light.png": "/cabin-book-web/dashboard/static/media/logo-light.cab420b0d270a629511c.png",
+    "index.html": "/cabin-book-web/dashboard/index.html",
+    "main.21dd8981.css.map": "/cabin-book-web/dashboard/static/css/main.21dd8981.css.map",
+    "main.88a22dc7.js.map": "/cabin-book-web/dashboard/static/js/main.88a22dc7.js.map",
+    "952.d8d0214a.chunk.js.map": "/cabin-book-web/dashboard/static/js/952.d8d0214a.chunk.js.map",
+    "453.55d37cec.chunk.js.map": "/cabin-book-web/dashboard/static/js/453.55d37cec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05eafdda.css",
-    "static/js/main.a704d5fd.js"
+    "static/css/main.21dd8981.css",
+    "static/js/main.88a22dc7.js"
   ]
 }
